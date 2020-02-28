@@ -1,0 +1,35 @@
+body{
+  background-color: none;
+margin: 0;
+}
+
+h1{
+  color: black;
+  margin: 0;
+}
+
+h3{
+  color: green;
+}
+
+p{
+  color: green;
+}
+
+img{
+  width: 150px;
+  border-radius: 100%;
+}
+
+div.top{
+  background-color: #e1f4f3;
+  text-align: center;
+}
+div.middle{
+  background-color: #79bac1;
+  text-align: center;
+}
+div.bottom{
+  background-color: #f1f3f4;
+  text-align: center;
+}
